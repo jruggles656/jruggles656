@@ -29,4 +29,4 @@ I learn best by building things and breaking them on purpose. Most of what you'l
 
 ## 📌 About This GitHub
 
-I use this as a living record of what I'm learning and building. Early commits are rough — that's the point. If you're a recruiter, the thing I'd want you to notice is that I show up consistently and document what I do.
+I use this as a living record of what I'm learning and building. Early commits are rough — that's the point. If I don't know how to do something, I'll figure it out. That's not a gap, that's the process. If you're a recruiter, the thing I'd want you to notice is that I show up consistently, learn what I need to, and document what I do.
