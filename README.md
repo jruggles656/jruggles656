@@ -12,7 +12,7 @@ I learn best by building things and breaking them on purpose. Most of what you'l
 
 - 🦝 **[Raccoon Recon](https://github.com/jruggles656/raccoon-recon)** — A web-based reconnaissance toolkit built in Go for penetration testing. Single binary, real-time WebSocket output, PDF/Markdown report generation.
 
-- 💧 **[Water World](https://github.com/jruggles656/waterworld)** — A JSON-driven linktree-style event hub for the CSUSB Water Industry Career Expo. GitHub Pages, custom domain, Google Analytics, sponsor grid, and event archiving. Live at [waterworld.sbs](https://waterworld.sbs).
+- 💧 **[Water World](https://github.com/jruggles656/waterworld)** — A JSON-driven linktree-style event hub for the CSUSB Water Industry Career Expo. GitHub Pages, custom domain, Google Analytics, sponsor grid, and event archiving. Live at [waterworldhub.com](https://waterworldhub.com).
 
 - 📚 **[CSUSB Coursework](https://github.com/jruggles656/csusb-coursework)** — Selected projects and labs from my IST program, organized by class. Includes enterprise system administration, security tools, and AI/cloud coursework.
 
