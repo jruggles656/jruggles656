@@ -5,3 +5,13 @@ Thumbs.db
 # Editor files
 .vscode/
 *.swp
+
+# Security — never commit these
+.env
+.env.*
+*.pem
+*.key
+*.p12
+.gh-token
+credentials.json
+secrets/
