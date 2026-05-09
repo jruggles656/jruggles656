@@ -8,6 +8,8 @@ I learn best by building things and breaking them on purpose. Most of what you'l
 
 ## 🔧 What I'm Working On
 
+- 🐕 **[Rent a Dog — Enterprise Network](https://github.com/jruggles656/rent-a-dog-enterprise-network)** — IST-4910 Spring 2026 capstone. A 9-VM enterprise network for a fictional dog-rental e-commerce business: built, hardened, monitored, and **defended through a week of adversarial pentesting** by other teams. AI-powered incident response stack (OpenClaw + Suricata + autoblock + per-team agent personas). 482-line writeup, 21 vulnerability findings documented from pentest week.
+
 - 🏠 **[Homelab](https://github.com/jruggles656/homelab)** — My home network and server infrastructure. Proxmox on a custom Ryzen 7 build, Ubiquiti UniFi networking with VLAN segmentation, AdGuard DNS filtering (1M+ rules), Tailscale remote access, and self-hosted RustDesk. Documented from hardware specs to the debugging stories.
 
 - 🦝 **[Raccoon Recon](https://github.com/jruggles656/raccoon-recon)** — A web-based reconnaissance toolkit built in Go for penetration testing. Single binary, real-time WebSocket output, PDF/Markdown report generation.
